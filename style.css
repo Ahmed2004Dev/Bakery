@@ -421,3 +421,43 @@ body {
 .contact-background .des-li-ul-s-6 {
     margin-top: 10px;
 }
+
+/* section 7 */
+.sec-7 {
+    background: #151515;
+    text-align: center;
+    padding: 50px 0;
+}
+
+.title-sec-7 {
+    font-size: 15px;
+    color: rgb(117, 117, 117);
+    line-height: 30px;
+}
+
+.contnent-ul-sec-7 {
+    width: 30%;
+    margin: auto;
+}
+
+.ul-sec-7 {
+    list-style: none;
+    padding: 0;
+    text-align: center;
+}
+
+.ul-sec-7 a {
+    display: inline-block;
+    color: white;
+    border-radius: 50%;
+    background: #403d38;
+    width: 10%;
+}
+
+.space-s-7 {
+    margin-right: 10px;
+}
+
+.ul-sec-7 a img {
+    width: 100%;
+}
