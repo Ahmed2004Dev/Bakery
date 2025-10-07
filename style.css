@@ -333,3 +333,91 @@ body {
 .map-s-5 iframe {
     width: 100%;
 }
+
+/* section 6 */
+.sec-6 {
+    background: #403d38;
+    width: auto;
+}
+
+.item-s-6 {
+    float: left;
+    width: 23.5%;
+}
+
+.space-left-1 {
+    margin-right: 2%;
+}
+
+.space-left-2 {
+    margin-right: 2%;
+}
+
+.space-left-3 {
+    margin-right: 2%;
+}
+
+.title-item-s-6 {
+    text-transform: capitalize;
+    font-size: 21px;
+    color: white;
+}
+
+.des-1-item-frist-s-6 {
+    font-size: 15px;
+    color: rgb(117, 117, 117);
+    line-height: 30px;
+}
+
+.des-2-item-frist-s-6 {
+    font-size: 17px;
+    color: rgb(117, 117, 117);
+    line-height: 30px;
+}
+
+.ul-s-6 {
+    list-style: none;
+    padding: 0;
+}
+
+.ul-s-6 li {
+    vertical-align: middle;
+    padding: 5px;
+}
+
+.container-img-s-6 {
+    width: 5%;
+    float: left;
+    vertical-align: middle;
+    margin-right: 10px;
+    color: white
+}
+
+.container-img-s-6 img {
+    width: 100%;
+}
+
+.des-li-ul-s-6 {
+    margin-top: -2px;
+    color: rgb(117, 117, 117);
+}
+
+.ul-s-6 hr {
+    border: solid 0.2px rgb(80, 80, 80);
+}
+
+.contact-background {
+    background: no-repeat center url(./images/images/contact-details-map.png);
+}
+
+.contact-background .container-img-s-6 {
+    width: 12.5%;
+    float: left;
+    vertical-align: middle;
+    margin-right: 10px;
+    color: white
+}
+
+.contact-background .des-li-ul-s-6 {
+    margin-top: 10px;
+}
